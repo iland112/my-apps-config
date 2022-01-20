@@ -7,4 +7,4 @@ logging:
   level:
     com:
       example:
-        clount: DEBUG
+        cloud: DEBUG
