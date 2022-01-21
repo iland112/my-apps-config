@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: http
+server:
+  port: 9090
